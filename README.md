@@ -1,7 +1,6 @@
 # Image search Engine
-you can access through this link
+you can access through this links --> https://tranquil-cassata-679a92.netlify.app/ & https://shashi4862.github.io/Image_Search_Engine/
 
-https://tranquil-cassata-679a92.netlify.app/
 
 screenshort
 ![Alt text](/2.png "optional title")
